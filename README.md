@@ -10,7 +10,7 @@ Given a dataset of loan applicants containing information like income, credit hi
 
 ## 📊 Dataset
 
-* Ypu can download the dataset from [here](https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view).
+* You can download the dataset from [here](https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view).
 * It includes features like:
 
   * Gender, Married, Education
@@ -64,4 +64,4 @@ The model achieves good prediction accuracy using Random Forest, making it suita
 
 ## 📨 Contact
 
-For queries or suggestions, feel free to reach out at \[[mohitbadhani1234@gmail.com](mailto:mohitbadhani1234@gmail.com)].
+For queries or suggestions, feel free to reach out at \[mohitbadhani1234@gmail.com(mailto:mohitbadhani1234@gmail.com)].
