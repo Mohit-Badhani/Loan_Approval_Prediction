@@ -59,9 +59,3 @@ Given a dataset of loan applicants containing information like income, credit hi
 ## 📌 Output
 
 The model achieves good prediction accuracy using Random Forest, making it suitable for real-world use in loan eligibility screening.
-
----
-
-## 📨 Contact
-
-For queries or suggestions, feel free to reach out at \[mohitbadhani1234@gmail.com](mailto:mohitbadhani1234@gmail.com)
