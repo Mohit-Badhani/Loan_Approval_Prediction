@@ -64,4 +64,4 @@ The model achieves good prediction accuracy using Random Forest, making it suita
 
 ## 📨 Contact
 
-For queries or suggestions, feel free to reach out at [mohitbadhani1234@gmail.com](mailto:mohitbadhani1234@gmail.com).
+For queries or suggestions, feel free to reach out at /[mohitbadhani1234@gmail.com](mailto:mohitbadhani1234@gmail.com).
