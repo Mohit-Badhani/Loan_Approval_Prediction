@@ -10,7 +10,7 @@ Given a dataset of loan applicants containing information like income, credit hi
 
 ## 📊 Dataset
 
-* The dataset used is publicly available from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
+* Ypu can download the dataset from [here](https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view).
 * It includes features like:
 
   * Gender, Married, Education
